@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.3.1)
+cmake_minimum_required(VERSION 3.20)
 
 project(recipe_parser
         VERSION 0.1
